@@ -1,0 +1,129 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+.menu{
+    background-color: #333333;
+    background-image: url('/img/fondo2.png') !important;
+    height: 100px !important;
+}
+.img-logo{
+    width: 80px;
+    margin: 5px 5px 15px 15px;
+}
+.nosotros{
+    background: url(/img/cerrajeria6.jpg) center no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.contactanos{
+    background-size: cover;
+    height: 400px;
+}
+nav ul a {
+    transition: background-color .3s;
+    font-size: 1.2rem;
+    padding: 18px 15px;
+}
+
+.skitter.skitter-large.with-dots{
+    position: inherit !important;
+    margin-bottom: 0 !important;
+}
+.skitter .box_clone img {
+}
+.skitter .box_clone {
+  #background: white;
+}
+.parallax-container {
+    display: table !important;
+}
+.secnegro{
+    color: #f0f0f0;
+    font-size: 20px;
+    line-height: 0px;
+    font-weight: bold;
+}
+span i.material-icons {
+    display: inline;
+    font-size: 24px;
+    height: 0px;
+    line-height: 0px;
+    margin-top: 20px;
+}
+
+.redes{
+    height: 45px;
+    margin-top: -10px;
+}
+.next_button1{
+    margin-right: -550px;
+}
+.div-oscuro{
+    background-image: url('/img/fondo2.png') !important;
+}
+.top1{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.top2{
+    margin-top: 35px;
+}
+.top3{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.topbtn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.divbtn{
+    margin-top: -20px;
+}
+.left30{
+    margin-left: 30px;
+}
+.white-text.top1{
+    margin-top: 100px !important;
+    display: block;
+    font-size: 20px;
+}
+.trabajamos{
+    font-size: 18px;
+    font-family: 'Muli', sans-serif !important;
+    margin: 10px 0px 10px 0px;
+    padding: 1px !important;
+}
+.div-gris{
+    background: #f0f0f0;
+    padding: 40px 60px 40px;
+}
+.large{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.card-panel.yellow{
+
+}
+.small-img{
+    height: 50px;
+}
+footer{
+    background-image: url('/img/fondo2.png') !important;
+}
+.divider{
+    height: 2px;
+    background: dodgerblue;
+}
+p{
+    text-align: justify;
+}
+p.acortar {
+    line-height: 1.4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.card .card-content {
+    height: 150px !important;
+}
